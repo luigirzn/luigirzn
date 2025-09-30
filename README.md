@@ -3,8 +3,27 @@
 **`Desenvolvedor em formação na IFSP`**
 
 Me chamo Luigi Rezzaghi, tenho 18 anos e sou natural de São Paulo, atualmente moro em bragança Paulista. Concluí o ensino médio em Sp e logo em seguida me mudei para Bragança por conta da faculdade, durante minha adolescência realizei três cursos técnicos de suporte T.I, desenvolvimento web e segurança em cloud. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IFSP. Sou apaixonado por tecnologia.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Seja+bem+vindo!;me+chamo+Luigi+Rezzaghi;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
+<p align="left">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/luigirzn?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/luigirzn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
